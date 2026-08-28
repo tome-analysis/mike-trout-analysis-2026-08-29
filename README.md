@@ -12,7 +12,7 @@ MLB選手マイク・トラウトの2015年・2019年・2022年の打撃デー�
 ## note記事
 
 分析内容の詳細はこちら：
-https://note.com/tome_baseball/XXXXXXXX
+
 
 ## 使用技術
 
